@@ -1,19 +1,19 @@
 # Ridwan Waheed
 
-**Backend Software Engineer | Building Trading Systems | Geospatial Technologies**
+**Backend Software Engineer | Energy Systems | Geospatial Technologies**
 
-I build scalable backend systems for financial technology and geospatial applications that handle real-time data at scale.
+I build scalable backend systems for the energy sector and geospatial applications that handle real-time data at scale.
 
 ## Currently
 
-- Working at **BaehrBots GmbH** - Building real-time trading engines and automation systems for electricity markets
+- Working at **BaehrBots GmbH** - Building real-time trading systems for German electricity markets
 - Recently completed **Master's in Cartography** (Erasmus Mundus Scholar)
-- Focused on backend development, trading systems, and geospatial technologies
+- Focused on backend development, energy systems, and geospatial technologies
 
 ## What I Do
 
-- Develop real-time trading engines with EPEX SPOT M7 API integration
-- Build algorithmic trading systems and risk management tools
+- Develop real-time trading systems for electricity markets with EPEX SPOT M7 API integration
+- Build algorithmic trading tools and risk management systems for energy trading
 - Design scalable backend architectures for high-performance applications
 - Create geospatial APIs for location-based services
 - Work with large-scale spatial and temporal data
@@ -52,7 +52,7 @@ I believe in applying simple solutions to complex problems. Clean, maintainable 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Specialized Areas
-- **Trading Systems:** Real-time engines, EPEX SPOT API, Algorithmic trading, Risk management
+- **Energy Systems:** Real-time trading engines, EPEX SPOT API, Algorithmic trading, Risk management, Power markets
 - **Geospatial:** PostGIS, Spatial analysis, Location-based services
 - **System Design:** Microservices, REST APIs, GraphQL, gRPC, Real-time processing
 
