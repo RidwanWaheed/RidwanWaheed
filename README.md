@@ -8,7 +8,6 @@ Backend engineer building production systems that handle real-time data at scale
 
 - Working at **BaehrBots GmbH** on real-time backend systems for German electricity markets
 - **M.Sc. in Cartography** (Erasmus Mundus Scholar)
-- Building production data infrastructure for high-availability, real-time use cases
 
 ## Tech Stack
 
@@ -27,7 +26,6 @@ Backend engineer building production systems that handle real-time data at scale
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Connect
@@ -36,5 +34,3 @@ Backend engineer building production systems that handle real-time data at scale
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridwan.o.waheed@gmail.com)
 
 ---
-
-Open to Backend Engineering opportunities | Based in Dresden, Germany
