@@ -1,25 +1,14 @@
 # Ridwan Waheed
 
-**Backend Software Engineer | Energy Systems | Geospatial Technologies**
+**Backend Software Engineer | Geospatial Technologies**
 
-I build scalable backend systems for the energy sector and geospatial applications that handle real-time data at scale. Currently architecting algorithmic trading engines for German electricity markets while leveraging my background in Cartography and spatial analysis.
+Backend engineer building production systems that handle real-time data at scale. Geospatial training (M.Sc. Cartography, Erasmus Mundus) is the foundation; energy markets are where I currently apply it.
 
 ## Currently
 
-- Working at **BaehrBots GmbH** - Building energy trading platform for EPEX SPOT markets using Java Spring & RabbitMQ
-- Recently completed **M.Sc. in Cartography** (Erasmus Mundus Scholar)
-- Specializing in High-Frequency Trading (HFT) systems and Geospatial Data Engineering
-
-## What I Do
-
-- **Real-Time Trading Engines:** Processing EPEX SPOT M7 market data via WebSocket streaming and RabbitMQ
-- **Algorithmic Trading Tools:** Building automated Counter-Offer Generators for Intraday Auctions (IDA) and reBAP analysis tools
-- **Geospatial Engineering:** Designing location-based services and APIs using PostGIS for spatial indexing and GeoJSON processing
-- **Backend Architecture:** Designing resilient microservices with Spring Boot and Python (FastAPI)
-
-## Philosophy
-
-I believe in applying simple solutions to complex problems. Clean, maintainable code and thoughtful system design often outperform over-engineered solutions.
+- Working at **BaehrBots GmbH** on real-time backend systems for German electricity markets
+- **M.Sc. in Cartography** (Erasmus Mundus Scholar)
+- Building production data infrastructure for high-availability, real-time use cases
 
 ## Tech Stack
 
